@@ -2,6 +2,6 @@
 
 ```
 echo "this is a command"
-master
+
 ```
 
